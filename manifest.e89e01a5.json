@@ -1,0 +1,10 @@
+{
+  "name": "nuxt2rtp",
+  "short_name": "nuxt2rtp",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "id"
+}
